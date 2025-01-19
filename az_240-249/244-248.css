@@ -1,0 +1,271 @@
+* {
+	box-sizing: border-box;
+}
+
+#wrapper244_1, #wrapper244_2, #wrapper245_1 {
+    width: 1200px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+
+#header244_1, #header244_2, #header245_1, #header245_2, #header245_3 {
+    height: 250px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#container244_1, #container244_2, #container245_1, #container245_2, #container245_3 {
+    display: flex;
+}
+
+#content244_1, #content244_2 {
+    width: 860px;
+    height: 900px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#sidebar244_1 {
+    width: 300px;
+    margin-right: 40px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#sidebar244_2 {
+    width: 300px;
+    margin-left: 40px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#footer244_1, #footer244_2, #footer245_1, #footer245_2, #footer245_3 {
+    height: 100px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#content245_1 {
+    width: 640px;
+    height: 700px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#left245_1 {
+    width: 300px;
+    margin-right: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#right245_1 {
+    width: 300px;
+    margin-left: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#wrapper245_2, #wrapper245_3 {
+    width: 1000px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+
+#content245_2 {
+    width: 520px;
+    height: 700px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#left245_2 {
+    width: 250px;
+    margin-right: 15px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#right245_2 {
+    width: 200px;
+    margin-left: 15px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#content245_3 {
+    width: 560px;
+    height: 700px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#left245_3, #right245_3 {
+    width: 200px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#wrapper247 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #ea6060; 
+    color: #742525; 
+}
+
+
+#wrapper247 header {
+    background-color: #e00f0f;
+    padding: 10px 0;
+}
+
+#wrapper247 nav {
+    display: flex;
+    justify-content: center;
+}
+
+#wrapper247 nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ffffff; 
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+#wrapper247 nav a:hover {
+    background-color: #e00f0f;
+}
+
+#container247 {
+    display: flex;
+    margin-top: 20px;
+}
+
+
+#wrapper247 aside {
+    width: 25%;
+    background-color: #e00f0f; 
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#wrapper247 main {
+    width: 75%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color:  #e00f0f;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#img247 {
+	float: left;
+    margin-right: 10px;
+}
+
+#task248_1 {
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d7d7d7; 
+    color: #000; 
+}
+
+#task248_1 header {
+    background-color: #a6a6a6; 
+    padding: 20px;
+    text-align: center;
+}
+
+#task248_1 h1 {
+    margin: 0;
+}
+
+#content248_1 {
+    padding: 20px;
+}
+
+#content248_1 section {
+    background-color: #a6a6a6;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#content248_1 h2 {
+    color: #000; 
+}
+
+#task248_1 footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #a6a6a6;
+}
+
+#img248 {
+	float: left;
+    margin-right: 10px;
+}
+
+#wrapper248_2 {
+    font-family: Arial, sans-serif;
+    background-color: #eaf6e9;
+    color: #130d8a;
+    width: 80%;
+    margin: auto;
+}
+
+#wrapper248_2 header {
+    background-color: #1422ec;
+    padding: 20px;
+    text-align: center;
+}
+
+#wrapper248_2 nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+#wrapper248_2 nav a:hover {
+    text-decoration: underline;
+}
+
+#container248_2 {
+    display: flex;
+}
+
+#left, #right {
+    width: 20%;
+    padding: 20px;
+    background-color: #919eff;
+}
+
+#wrapper248_2 main {
+    width: 60%;
+    padding: 20px;
+}
+
+#wrapper248_2 h1,#wrapper248_2 h2,#wrapper248_2 h3 {    
+    color: #130d8a;
+}
+
+#wrapper248_2 footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1422ec;
+    color: white;
+}
+
+#logo img {
+    max-width: 150px;
+}

@@ -1,0 +1,96 @@
+#task186 {
+	width: 600px;
+	text-align: justify;
+}
+#img186_1 {
+	float: left;
+    margin-right: 10px;
+}
+#img186_2{
+    float: right;
+    margin-top: 10px;
+	margin-left: 10px;
+}
+
+#task191 {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#img1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#img2 {
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#parent200 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child200 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+#parent201 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child201_1, #child201_2 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+
+#parent1, #parent2 {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#child1 {
+    float: left;
+}
+
+#child2 {
+    float: right;
+}
+
+#child1, #child2{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.clearfix {
+    clear: both;
+}
